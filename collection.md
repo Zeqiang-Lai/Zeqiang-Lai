@@ -36,7 +36,7 @@
 - [papers](https://github.com/Zeqiang-Lai/papers): Papers notes
 - [paper-utils](https://github.com/Zeqiang-Lai/paper-utills): Utils for writing papers
 
-## 课程 (7)
+## 课程
 
 | Repo                                                                                  | Summary          | Created Date |
 | ------------------------------------------------------------------------------------- | ---------------- | ------------ |
