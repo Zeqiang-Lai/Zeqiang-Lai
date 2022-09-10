@@ -4,7 +4,7 @@ Here is my Github homepage.
 
 :star2: **Highlight Projects**
 
-- [HSIR](https://github.com/Zeqiang-Lai/HSIR): Out-of-box Hyperspectral Image Restoration Toolbox and Benchmark
+- [HSIR](https://github.com/bit-isp/HSIR): Out-of-box Hyperspectral Image Restoration Toolbox and Benchmark
 - [DPHSIR](https://github.com/Zeqiang-Lai/DPHSIR): Deep Plug-and-Play Prior for Hyperspectral Image Restoration (Neurocomputing 2022)
 - [SignNet](https://github.com/Zeqiang-Lai/SignNet): SignNet: Recognize Alphabets in the American Sign Language in Real Time
 - [Yan](https://github.com/yan-lang/yan): An Educational Compiler Framework
