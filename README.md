@@ -1,19 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Zeqiang-Lai/Zeqiang-Lai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is my Github homepage.
 
-Here are some ideas to get you started:
+:star2: **Highlight Projects**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [HSIR](https://github.com/Zeqiang-Lai/HSIR): Out-of-box Hyperspectral Image Restoration Toolbox and Benchmark
+- [DPHSIR](https://github.com/Zeqiang-Lai/DPHSIR): Deep Plug-and-Play Prior for Hyperspectral Image Restoration (Neurocomputing 2022)
+- [SignNet](https://github.com/Zeqiang-Lai/SignNet): SignNet: Recognize Alphabets in the American Sign Language in Real Time
+- [Yan](https://github.com/yan-lang/yan): An Educational Compiler Framework
+- ...
+
+:dart: **Stat**:
+
 <p>
 	<a href="#/"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zeqiang-Lai&show_icons=true&hide_title=true&count_private=true" align="left"></a>
 </p>
