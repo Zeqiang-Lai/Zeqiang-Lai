@@ -2,7 +2,7 @@
 
 Here is my Github homepage.
 
-:star2: **Highlight Projects**
+:star2: **Selected Projects**
 
 - [HSIR](https://github.com/bit-isp/HSIR): Out-of-box Hyperspectral Image Restoration Toolbox and Benchmark
 - [DPHSIR](https://github.com/Zeqiang-Lai/DPHSIR): Deep Plug-and-Play Prior for Hyperspectral Image Restoration (Neurocomputing 2022)
