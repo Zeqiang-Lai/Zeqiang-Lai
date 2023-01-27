@@ -9,7 +9,7 @@ Here is my Github homepage.
 - [HSI-RefSR](https://github.com/Zeqiang-Lai/HSI-RefSR): Hyperspectral Image Super Resolution with Real Unaligned RGB Guidance 
 - [MAN](https://github.com/Zeqiang-Lai/MAN): Mixed Attention Network for Hyperspectral Image Denoising
 - [SignNet](https://github.com/Zeqiang-Lai/SignNet): SignNet: Recognize Alphabets in the American Sign Language in Real Time
-- [Torchlight](https://github.com/Zeqiang-Lai/torchlight): A light-weight PyTorch wrapper for fast prototyping of computer vision models.
+- [Torchlight](https://github.com/Zeqiang-Lai/torchlight): Light-weight PyTorch Wrapper for Fast Prototyping of Computer Vision Models.
 - [Yan](https://github.com/yan-lang/yan): An Educational Compiler Framework
 
 
