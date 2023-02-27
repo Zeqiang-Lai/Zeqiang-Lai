@@ -2,12 +2,14 @@
 
 Here is my Github homepage.
 
-:star2: **Selected Projects**
 
+📝 **Research**
 - [HSIR](https://github.com/bit-isp/HSIR): Out-of-box Hyperspectral Image Restoration Toolbox and Benchmark
 - [DPHSIR](https://github.com/Zeqiang-Lai/DPHSIR): Deep Plug-and-Play Prior for Hyperspectral Image Restoration (Neurocomputing 2022)
 - [HSI-RefSR](https://github.com/Zeqiang-Lai/HSI-RefSR): Hyperspectral Image Super Resolution with Real Unaligned RGB Guidance 
 - [MAN](https://github.com/Zeqiang-Lai/MAN): Mixed Attention Network for Hyperspectral Image Denoising
+
+🎲 **Fun**
 - [SignNet](https://github.com/Zeqiang-Lai/SignNet): SignNet: Recognize Alphabets in the American Sign Language in Real Time
 - [Torchlight](https://github.com/Zeqiang-Lai/torchlight): Light-weight PyTorch Wrapper for Fast Prototyping of Computer Vision Models.
 - [Yan](https://github.com/yan-lang/yan): An Educational Compiler Framework
