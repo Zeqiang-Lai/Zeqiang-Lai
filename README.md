@@ -5,7 +5,7 @@ Here is my Github homepage.
 
 📝 **Research**
 - [HSIR](https://github.com/bit-isp/HSIR): Out-of-box Hyperspectral Image Restoration Toolbox and Benchmark
-- [DPHSIR](https://github.com/Zeqiang-Lai/DPHSIR): Deep Plug-and-Play Prior for Hyperspectral Image Restoration (Neurocomputing 2022)
+- [DPHSIR](https://github.com/Zeqiang-Lai/DPHSIR): Deep Plug-and-Play Prior for Hyperspectral Image Restoration
 - [HSI-RefSR](https://github.com/Zeqiang-Lai/HSI-RefSR): Hyperspectral Image Super Resolution with Real Unaligned RGB Guidance 
 - [MAN](https://github.com/Zeqiang-Lai/MAN): Mixed Attention Network for Hyperspectral Image Denoising
 - [HSDT](https://github.com/Zeqiang-Lai/HSDT): Hybrid Spectral Denoising Transformer with Learnable Query
