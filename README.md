@@ -12,5 +12,5 @@ Here is my Github homepage. My profile is hosted at [here](https://zeqiang-lai.g
 **Recent projects**
 
 - [Remove Anything](https://github.com/Zeqiang-Lai/Remove-Anything/) • [Anything2Image](https://github.com/Zeqiang-Lai/Anything2Image) • [DragGAN](https://github.com/OpenGVLab/DragGAN)
-- [Awesome DragGAN](https://github.com/OpenGVLab/Awesome-DragGAN) • [Awesome LLM4Tool](https://github.com/OpenGVLab/Awesome-LLM4Tool) [Awesome Diffusion Models](https://github.com/Zeqiang-Lai/Awesome-Diffusion-Models)
+- [Awesome DragGAN](https://github.com/OpenGVLab/Awesome-DragGAN) • [Awesome LLM4Tool](https://github.com/OpenGVLab/Awesome-LLM4Tool) • [Awesome Diffusion Models](https://github.com/Zeqiang-Lai/Awesome-Diffusion-Models)
 - [HSIR](https://github.com/bit-isp/HSIR) • [Dola Kit](https://github.com/Zeqiang-Lai/dola-kit)  • [Yan Lang](https://github.com/yan-lang/yan)
