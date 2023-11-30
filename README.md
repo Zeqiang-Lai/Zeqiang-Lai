@@ -5,7 +5,7 @@ Here is my Github homepage. My profile is hosted at [here](https://zeqiang-lai.g
 **Recent works**
 
 - Proximal Algorithm : [∇-Prox [SIGGRAPH'2023]](https://github.com/princeton-computational-imaging/Delta-Prox) • [DPHSIR [Neurocomputing'2022]](https://github.com/Zeqiang-Lai/DPHSIR) 
-- Image Restoration : [HSDT [ICCV'2023]](https://github.com/Zeqiang-Lai/HSDT) •  [HSI-RefSR](https://github.com/Zeqiang-Lai/HSI-RefSR) [TNNLS'2023] • [MAN](https://github.com/Zeqiang-Lai/MAN) 
+- Image Restoration : [HSDT [ICCV'2023]](https://github.com/Zeqiang-Lai/HSDT) •  [HSI-RefSR [TNNLS'2023]](https://github.com/Zeqiang-Lai/HSI-RefSR) • [MAN](https://github.com/Zeqiang-Lai/MAN) 
 - Diffusion Model : [DDPS](https://github.com/OpenGVLab/DDPS) • [Mini-DALLE3](https://minidalle3.github.io/)
 - Multi Modal LLM : [InternGPT](https://github.com/OpenGVLab/InternGPT) • [ControlLLM](https://github.com/OpenGVLab/ControlLLM) 
 
